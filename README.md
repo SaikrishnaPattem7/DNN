@@ -1,7 +1,7 @@
 # DNN
 Multimodal Sequence Modelling for Visual Story Reasoning:-
 
-**Executive Summary**
+**Innovation Summary**
 
 This project examines multimodal sequence modelling of visual story reasoning, the combination of visual perception, natural language comprehension, and temporal modelling. It aims at generating an image and a text description of it to anticipate the next component of a multimodal story. With a predetermined order of four pairs of images and texts and qualities derived from a visual narrative, the model guesses the fifth and does not disrupt the narrative structure of both media. This work is executed on the basis of the StoryReasoning dataset and seems to rely on the architectural advice of the given module, staying in addition to the explicit multimodal alignment mechanism as the essential innovation.
 
