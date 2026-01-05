@@ -2,8 +2,8 @@
 
 ## Quick Links
 - **[Experiments Notebook](experiment_notebook.ipynb)** – Full experimental workflow and implementation  
-- **[Evaluation Results](#results/)** – All The results are in this folder 
-- **[Model Architecture](#SRC/)** – Encoders, fusion, temporal modelling, and decoders  
+- **[Evaluation Results](results/)** – All The results are in this folder 
+- **[Model Architecture](SRC/)** – Encoders, fusion, temporal modelling, and decoders  
 
 ---
 
