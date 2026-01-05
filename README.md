@@ -4,7 +4,7 @@
 - **[Experiments Notebook](experiment_notebook.ipynb)** – Full experimental workflow and implementation  
 - **[Evaluation Results](results/)** – All The results are in this folder 
 - **[Model Architecture](src/)** – Encoders, fusion, temporal modelling, and decoders  
-
+---
 
 ## Innovation Summary
 **This project introduces an explicit contrastive multimodal alignment loss to enforce semantic consistency between visual and textual embeddings in a multimodal sequence modelling task. The innovation improves narrative coherence and cross-modal alignment when predicting the next element of a visual story.**
